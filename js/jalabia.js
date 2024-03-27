@@ -17,7 +17,7 @@ const lodingSppiner=()=>{
 
 
 const getData = () => {
-    fetch('/js/api.json')
+    fetch('../js/api.json')
         .then(res => res.json())
         .then(apiData => {
             data = apiData[3]['بناتي'];
@@ -43,7 +43,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('idjalabia', id)
-    window.location='/html/myjalabia.html'
+    window.location='../htmlmyjalabia.html'
 }
 
 function showSize(element) {

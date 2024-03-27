@@ -17,7 +17,7 @@ function showProduct() {
                         <p class="point">السعر بنقاط المكافآت : 303</p>
                     </div>
                     <div class="sale">
-                        <img src="/imges/download.svg" alt="" class="tamara">
+                        <img src="../imges/download.svg" alt="" class="tamara">
                         <p>قسم فاتورتك علي 4 دفعات بقيمه 87.25</p>
                     </div>
                     <div class="size">
@@ -130,7 +130,7 @@ const ShowProductCart = () => {
             <p>${ele.title}</p>
             <img src="${ele.img}" alt="">
         </div>
-        <a href='/html/shoppingcart.html'><button><span>معاينه السله</span></button></a>
+        <a href='../htmlshoppingcart.html'><button><span>معاينه السله</span></button></a>
         `
     })
 }
@@ -173,7 +173,7 @@ const showProductWishlist = () => {
         <img src="${ele.img}" alt="">
         </div>
        <p> يجب عليك<a href="/"> تسجيل دخول</a> او <a href="/">انشاء حساب جديد</a> قبل البدء في اضافه المنتجات
-          <a href ='/html/favourite.html'>هل تريد الذهاب لسله الرغبات</a> </p>
+          <a href ='../htmlfavourite.html'>هل تريد الذهاب لسله الرغبات</a> </p>
         </div>
         `
     })

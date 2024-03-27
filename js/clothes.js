@@ -15,7 +15,7 @@ const lodingSppiner=()=>{
 }
 
 const getData = () => {
-    fetch('/js/api.json')
+    fetch('../js/api.json')
         .then(res => res.json())
         .then(apiData => {
             data = apiData[1]['جاكيت'];
@@ -40,7 +40,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('idclothes', id)
-    window.location='/html/myclothes.html'
+    window.location='../htmlmyclothes.html'
 }
 function showSize(element) {
     if (element.classList.contains('fa-plus')) {

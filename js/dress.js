@@ -15,7 +15,7 @@ const lodingSppiner=()=>{
 }
 
 const getData = () => {
-    fetch('/js/api.json')
+    fetch('../js/api.json')
         .then(res => res.json())
         .then(data => {
             localStorage.setItem('dress', JSON.stringify(data[0]['فساتين']))
@@ -39,7 +39,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('iddress', id)
-    window.location='/html/mydress.html'
+    window.location='../htmlmydress.html'
 }
 
 function showprice(element) {

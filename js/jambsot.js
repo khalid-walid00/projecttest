@@ -15,7 +15,7 @@ const lodingSppiner=()=>{
 }
 
 const getData = () => {
-    fetch('/js/api.json')
+    fetch('../js/api.json')
         .then(res => res.json())
         .then(apiData => {
             data = apiData[2]['جامبسوت'];
@@ -41,7 +41,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('idjambsot', id)
-    window.location='/html/myjambsit.html'
+    window.location='../htmlmyjambsit.html'
 }
 
 function showSize(element) {

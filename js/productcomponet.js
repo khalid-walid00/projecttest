@@ -135,7 +135,7 @@ class WHATAPLINK extends HTMLElement {
         super()
         this.innerHTML = `
         <div class="whatsapplink">
-        <a href=""><img src="/imges/whatsapp.png" alt=""></a>
+        <a href=""><img src="../imges/whatsapp.png" alt=""></a>
     </div>
 
         `

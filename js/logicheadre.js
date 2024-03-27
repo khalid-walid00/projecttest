@@ -30,10 +30,10 @@ const showCartShopping = () => {
             </div>
         `;
         });
-        let btn = `<a href='/html/shoppingcart.html''><span>معاينة السلة</span></a>`;
+        let btn = `<a href='../htmlshoppingcart.html''><span>معاينة السلة</span></a>`;
         content_cart.innerHTML = loopShoping.join('') + btn;
     } else {
-        content_cart.innerHTML = `<img class='shopping-img' src="/imges/customer-day-hand-drawn-flat-illustration_23-2149562584.avif" alt="">`;
+        content_cart.innerHTML = `<img class='shopping-img' src="../imges/customer-day-hand-drawn-flat-illustration_23-2149562584.avif" alt="">`;
     }
 }
 showCartShopping();
@@ -47,7 +47,7 @@ contentShopping.addEventListener('mouseleave', () => {
 })
 
 const SearchproductShopping = () => {
-    fetch('/js/api.json')
+    fetch('../js/api.json')
         .then(res => res.json())
         .then(data => {
             displaySearchResults(data[0]['فساتين'])

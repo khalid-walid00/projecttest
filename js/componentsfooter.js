@@ -38,8 +38,8 @@ this.innerHTML=`
             <a href=""><i class="fa-brands fa-tiktok"></i></a>
             <a href=""></a>
         </div>
-        <div class="card"><img src="/imges/applestory-150x92fill.png" alt="" srcset=""></div>
-        <div class="card"><img src="/imges/googlepay-150x92fill.png" alt="" srcset=""></div>
+        <div class="card"><img src="../imges/applestory-150x92fill.png" alt="" srcset=""></div>
+        <div class="card"><img src="../imges/googlepay-150x92fill.png" alt="" srcset=""></div>
     </div>
     <div class="sosial-list">
         <ul>
@@ -69,12 +69,12 @@ this.innerHTML=`
 
     <div class="image-social">
         <div class="card">
-            <img src="/imges/2560px-Apple_Pay_logo.svg-60x60w (1).png" alt="">
-            <img src="/imges/master-60x60w.png" alt="">
-            <img src="/imges/stcpay-60x60w (2).png" alt="">
-            <img src="/imges//VATS-60x60w.png" alt="">
-            <img src="/imges/visa-60x60w.png" alt="">
-            <img src="/imges/sp-60x60h.png" alt="">
+            <img src="../imges/2560px-Apple_Pay_logo.svg-60x60w (1).png" alt="">
+            <img src="../imges/master-60x60w.png" alt="">
+            <img src="../imges/stcpay-60x60w (2).png" alt="">
+            <img src="../imges//VATS-60x60w.png" alt="">
+            <img src="../imges/visa-60x60w.png" alt="">
+            <img src="../imges/sp-60x60h.png" alt="">
             <img src="" alt="" srcset="">
         </div>
         <p>جميع الحقوق محفوظة شركة اكتان 2023 الرقم الضريبي 300076485500003</p>
