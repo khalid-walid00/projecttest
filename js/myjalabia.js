@@ -128,7 +128,7 @@ function AddtoCartdress(id) {
             <p>${ele.title}</p>
             <img src="${ele.img}" alt="">
         </div>
-        <a href='../htmlshoppingcart.html'><button><span>معاينه السله</span></button></a>
+        <a href='../html/shoppingcart.html'><button><span>معاينه السله</span></button></a>
         `
     })
  }
@@ -169,7 +169,7 @@ const showProductWishlist=()=>{
         <img src="${ele.img}" alt="">
         </div>
        <p> يجب عليك<a> تسجيل دخول</a> او <a href="/">انشاء حساب جديد</a> قبل البدء في اضافه المنتجات
-       <a href ='../htmlfavourite.html'>هل تريد الذهاب لسله الرغبات</a></p>
+       <a href ='../html/favourite.html'>هل تريد الذهاب لسله الرغبات</a></p>
         </div>
         `
     })

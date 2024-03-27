@@ -41,7 +41,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('idjambsot', id)
-    window.location='../htmlmyjambsit.html'
+    window.location='../html/myjambsit.html'
 }
 
 function showSize(element) {

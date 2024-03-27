@@ -39,7 +39,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('iddress', id)
-    window.location='../htmlmydress.html'
+    window.location='../html/mydress.html'
 }
 
 function showprice(element) {

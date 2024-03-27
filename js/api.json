@@ -6,7 +6,7 @@
                 "qty": 1,
                 "order": -8,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره قصير بفيونكه مطرزه لون فوشي",
                 "salary": 285,
@@ -32,7 +32,7 @@
                 "qty": 1,
                 "order": -7,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان ميدي بياقه مطرزه ومزينه بريش لون فوشي",
                 "salary": 400,
@@ -55,7 +55,7 @@
                 "qty": 1,
                 "order": -6,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره ناعم باكمام كايب وحزام مطرز لون اصفر",
                 "salary": 319,
@@ -79,7 +79,7 @@
                 "qty": 1,
                 "order": -5,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان بليسيه باكمام كايب لون فوشي",
                 "salary": 319,
@@ -101,7 +101,7 @@
                 "qty": 1,
                 "order": -4,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره ساتان بطيات وفتحه لون اصفر",
                 "salary": 400,
@@ -124,7 +124,7 @@
                 "qty": 1,
                 "order": -3,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره توب مزين بريشلون اسود",
                 "salary": 500,
@@ -148,7 +148,7 @@
                 "qty": 1,
                 "order": -2,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره بتصميم مقسم مطرز بترتر ولولو لون تيفاني",
                 "salary": 325,
@@ -171,7 +171,7 @@
                 "qty": 1,
                 "order": -1,
                 "name": "فساتين",
-                "link": "../htmldress.html",
+                "link": "../html/dress.html",
                 "category": "dress",
                 "title": "فستان سهره منفوش مزين بفصوص لون بيج",
                 "salary": 400,
@@ -196,7 +196,7 @@
         "جاكيت": [
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "order": -1,
@@ -211,7 +211,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "id": 10,
@@ -226,7 +226,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "id": 11,
@@ -241,7 +241,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "id": 12,
@@ -256,7 +256,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "id": 13,
@@ -271,7 +271,7 @@
             },
             {
                 "id": 14,
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "qty": 1,
                 "order": -6,
                 "name": "جاكيت",
@@ -286,7 +286,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "order": -7,
@@ -301,7 +301,7 @@
             },
             {
                 "name": "جاكيت",
-                "link": "../htmlclothes.html",
+                "link": "../html/clothes.html",
                 "category": "clothes",
                 "qty": 1,
                 "order": -8,
@@ -320,7 +320,7 @@
         "جامبسوت": [
             {
                 "id": 17,
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "qty": 1,
                 "name": "جامبسوت",
                 "category": "jambsot",
@@ -336,7 +336,7 @@
                 "id": 18,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "جمبسوت كاروهات",
                 "salary": 149,
@@ -350,7 +350,7 @@
                 "id": 19,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "جمبسوت خامة الكتان بحزام لف",
                 "salary": 145,
@@ -364,7 +364,7 @@
                 "id": 20,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "طقم جمبسوت ميتاليك باكمام بف لون بنك",
                 "salary": 193,
@@ -378,7 +378,7 @@
                 "id": 21,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "طقم جمبسوت ميتاليك باكمام بف لون كحلي",
                 "salary": 193,
@@ -392,7 +392,7 @@
                 "id": 22,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "جمبسوت بدون جاكيت",
                 "salary": 89,
@@ -406,7 +406,7 @@
                 "id": 23,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "جمبسوت قطعتين ورد",
                 "salary": 399,
@@ -420,7 +420,7 @@
                 "id": 24,
                 "qty": 1,
                 "name": "جامبسوت",
-                "link": "../htmljambsot.html",
+                "link": "../html/jambsot.html",
                 "category": "jambsot",
                 "title": "جمبسوت كاروهات",
                 "salary": 149,
@@ -437,7 +437,7 @@
             {
                 "id": 25,
                 "qty": 1,
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "name": "بناتي",
                 "category": "jalabia",
                 "title": "جلابيه بناتي ميدي بتطريز افقي بالترتر لون ذهبي",
@@ -449,7 +449,7 @@
                 "img": "../imges/07-5841go-1-600x900.jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 26,
                 "qty": 1,
                 "name": "بناتي",
@@ -463,7 +463,7 @@
                 "img": "../imges/-2-600x900 (5).jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 27,
                 "qty": 1,
                 "name": "بناتي",
@@ -477,7 +477,7 @@
                 "img": "../imges/-1-600x900 (8).jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 28,
                 "qty": 1,
                 "name": "بناتي",
@@ -491,7 +491,7 @@
                 "img": "../imges/-9-600x900 (4).jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 29,
                 "qty": 1,
                 "name": "بناتي",
@@ -505,7 +505,7 @@
                 "img": "../imges/-2-600x900 (6).jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 30,
                 "qty": 1,
                 "name": "بناتي",
@@ -519,7 +519,7 @@
                 "img": "../imges/-2-600x900 (7).jpg"
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 31,
                 "qty": 1,
                 "name": "بناتي",
@@ -533,7 +533,7 @@
                 "img": "../imges/-3-600x900 (3).jpg "
             },
             {
-                "link": "../htmljalabia.html",
+                "link": "../html/jalabia.html",
                 "id": 32,
                 "qty": 1,
                 "name": "بناتي",

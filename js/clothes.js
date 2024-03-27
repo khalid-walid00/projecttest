@@ -40,7 +40,7 @@ const displayData = (data) => {
 
 function savedIdImgGalabeat(id) {
     localStorage.setItem('idclothes', id)
-    window.location='../htmlmyclothes.html'
+    window.location='../html/myclothes.html'
 }
 function showSize(element) {
     if (element.classList.contains('fa-plus')) {

@@ -7,7 +7,7 @@ class HEADERCOMPONENTS extends HTMLElement {
         <i class="fa-solid fa-bars bars"></i>
             <div class="content-headre">
                 <ul class="list-header">
-                    <a href="../htmlindex.html"><h1>ACTAN</h1></a>
+                    <a href="../html/index.html"><h1>ACTAN</h1></a>
                     <li class="li-shopping"><a href=""><i class="fa-solid fa-cart-shopping shopping"></i></a>
                     <span class='length'></span>
                         <div class="content-shopping">
@@ -20,7 +20,7 @@ class HEADERCOMPONENTS extends HTMLElement {
                         </div>
                     </li>
 
-                    <li>تسجيل<a href="../htmlformregister.html"><i class="fa-solid fa-user-plus"></i></li></a>
+                    <li>تسجيل<a href="../html/formregister.html"><i class="fa-solid fa-user-plus"></i></li></a>
                     <li class='user'><p></p> <a href=""><i class="fa-regular fa-hand-spock"></i></a></li>
 
                     <li class="li-search"><a href=""><i class="fa-solid fa-magnifying-glass"></i></a>
@@ -41,10 +41,10 @@ class HEADERCOMPONENTS extends HTMLElement {
 
 
                     </li>
-                    <a href="../htmlclothes.html"><li>اطقم</li></a> 
-                   <a href="../htmldress.html"><li>فساتين</li></a> 
-                    <a href="../htmljalabia.html"><li>جلابيات</li></a>
-                    <a href="../htmljambsot.html"><li>جامبسوت</li></a>
+                    <a href="../html/clothes.html"><li>اطقم</li></a> 
+                   <a href="../html/dress.html"><li>فساتين</li></a> 
+                    <a href="../html/jalabia.html"><li>جلابيات</li></a>
+                    <a href="../html/jambsot.html"><li>جامبسوت</li></a>
                 </ul>
             </div>
         </div>
